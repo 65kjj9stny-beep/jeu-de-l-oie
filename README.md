@@ -2,6 +2,8 @@
 voici le prompt envoyer à l'iag chatgpt :
 Fais un jeu de l’oie selon mes conditions : nom : oie-pixel, case pour saisir le nombre d'équipes jouant (entre 2 et 10) puis un bouton pour proposer de lancer le jeu. afficher la position des pions des joueurs sur le plateau et leur déplacements, afficher un ecran perdu lors d’une defaite et gagné lors d’une victoire, ajouter un compteur de score pour chaque joueurs, Pour windows, pour serveur web ,en python, couleurs : vertes bleu couleur retro, style retro gaming, le jeu doit comporter 63 cases avec des cases aléatoires comportantes : oie :avance de 2 cases, piège : recule de 3 cases et perd 1 point, crâne : retour au depart et defaite immediate, boost : +3 points, systeme de dès tour à tour equipe par equipe, ajouter le classement des joueurs au moment de l’écran fin
 
+file:///home/nas-wks01/users/uapv2701771/.cache/.fr-frx2FI/jeu-de-loie-retro/index.html
+
 
         x = MARGIN + col * CELL
         y = MARGIN + (6 - row_from_bottom) * CELL
